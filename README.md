@@ -1,6 +1,8 @@
 convert
 =======
 
+Henrique Cursino Vieira, Msc. BioInformatic, IME - USP, Brazil
+
 My application for conversion data in xml for export to Dados Prospective.
 
 
