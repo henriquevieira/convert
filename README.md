@@ -1,4 +1,4 @@
-convert
+Convert data for Dados Prospective
 =======
 
 Henrique Cursino Vieira, Msc. BioInformatic, IME - USP, Brazil
